@@ -1,0 +1,28 @@
+{
+  "name": "bitmascots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "playwright": "npx playwright test",
+    "report": "npx playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prince-71-Cloud/WebAutomationAssessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prince-71-Cloud/WebAutomationAssessment/issues"
+  },
+  "homepage": "https://github.com/Prince-71-Cloud/WebAutomationAssessment#readme",
+  "dependencies": {
+    "@playwright/test": "^1.56.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1"
+  }
+}
