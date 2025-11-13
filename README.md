@@ -124,6 +124,20 @@ The tests use the standard Sauce Demo credentials:
 
 - For detailed tracing when tests fail, check the trace files in the test-results directory.
 
+## CI/CD Integration
+
+This project includes a GitHub Actions workflow that automatically runs tests on every push and pull request to the main branch.
+
+### GitHub Actions Workflow
+
+The workflow:
+- Runs tests on Ubuntu with Node.js 18
+- Installs all dependencies and Playwright browsers
+- Executes the Playwright tests across different browsers
+- Uploads test results and reports as artifacts
+
+To view the workflow runs, navigate to the "Actions" tab in your GitHub repository.
+
 ## License
 
 This project is licensed under the ISC License.
