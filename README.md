@@ -138,6 +138,17 @@ The workflow:
 
 To view the workflow runs, navigate to the "Actions" tab in your GitHub repository.
 
+### Allure Report Visualizations
+
+<img width="1896" height="813" alt="Report Overview" src="https://github.com/user-attachments/assets/774b90f7-d55c-44ca-b140-0fd812d3677d" />
+<img width="1872" height="933" alt="Report Graph" src="https://github.com/user-attachments/assets/0b3aa185-a706-4734-a738-7925a2387fe7" />
+<img width="1887" height="904" alt="Timeline" src="https://github.com/user-attachments/assets/ad07c7f3-266b-4217-adc5-0cedc07ecb68" />
+<img width="1890" height="911" alt="Suites" src="https://github.com/user-attachments/assets/7a10bb58-a190-43f6-b23a-e374c56549fc" />
+
+
+
+
+
 ## License
 
 This project is licensed under the ISC License.
